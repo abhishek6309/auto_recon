@@ -2,7 +2,7 @@
 
 Bash Script For Reconnaissance
 
-# Automating Recon In Bug Bounty To Save Your Precious Time 
+# Automating Recon In Bug Bounty To Save Your Precious Time.
 
 (Bash script in Master Branch)
 
