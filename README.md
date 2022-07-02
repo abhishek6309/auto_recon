@@ -1,6 +1,6 @@
 # Recon_master 
 
-Bash Script For Reconnaissance
+  A simple to Use Bash Script For Reconnaissance
 
 # Automating Recon In Bug Bounty To Save Your Precious Time.
 
