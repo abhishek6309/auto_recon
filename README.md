@@ -8,7 +8,7 @@
 
 # How to use:
 
-$git clone https://github.com/abhishek6309/auto_recon/edit/main/README.md
+$git clone https://github.com/abhishek6309/auto_recon.git
 
 $cd hunting_tools
 
